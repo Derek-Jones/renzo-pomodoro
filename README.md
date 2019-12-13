@@ -10,5 +10,5 @@ renzo-main.pdf - Work in progress paper on the analysis of the data
 
 If you write a blog post or article about this data, please let me know.
 
-If you have recorded personal task estimates, I offer a free data analysis serice, provided you are willing to make the data publicly available in anonymized form.
+If you have recorded personal task estimates (or any interesting software engineering data), I offer to do a free data analysis, provided you are willing to make the data publicly available in anonymized form.
 
